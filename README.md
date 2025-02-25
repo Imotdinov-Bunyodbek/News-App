@@ -1,6 +1,7 @@
 # News-App
 
-News App is an Android application designed to keep users updated with the latest news from around the world. It provides a seamless and modern UI for an enhanced reading experience.
+News App is an Android application designed to keep users updated with the latest news from around
+the world. It provides a seamless and modern UI for an enhanced reading experience.
 
 ## 📰 Features
 
@@ -27,8 +28,11 @@ Below are some screenshots of the application:
 <table>
   <tr>
     <td><img src="images/home.png" alt="Home Screen" width="200"/></td>
-    <td><img src="images/article.png" alt="Article View" width="200"/></td>
-    <td><img src="images/settings.png" alt="Settings" width="200"/></td>
+    <td><img src="images/tranding.png" alt="Tranding" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/categories.png" alt="Categories Screen" width="200"/></td>
+    <td><img src="images/info.png" alt="News info" width="200"/></td>
   </tr>
 </table>
 
